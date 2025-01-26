@@ -1,0 +1,52 @@
+24-Jan-2025 23:33:12.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/9.0.98
+24-Jan-2025 23:33:12.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Dec 5 2024 19:50:29 UTC
+24-Jan-2025 23:33:12.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  9.0.98.0
+24-Jan-2025 23:33:12.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+24-Jan-2025 23:33:12.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+24-Jan-2025 23:33:12.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+24-Jan-2025 23:33:12.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-20
+24-Jan-2025 23:33:12.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            20.0.1+9-29
+24-Jan-2025 23:33:12.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+24-Jan-2025 23:33:12.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98
+24-Jan-2025 23:33:12.010 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98
+24-Jan-2025 23:33:12.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+24-Jan-2025 23:33:12.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+24-Jan-2025 23:33:12.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+24-Jan-2025 23:33:12.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-Jan-2025 23:33:12.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-Jan-2025 23:33:12.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98
+24-Jan-2025 23:33:12.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98
+24-Jan-2025 23:33:12.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98\temp
+24-Jan-2025 23:33:12.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98\conf\logging.properties
+24-Jan-2025 23:33:12.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-Jan-2025 23:33:12.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=64829:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+24-Jan-2025 23:33:12.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+24-Jan-2025 23:33:12.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+24-Jan-2025 23:33:12.014 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+24-Jan-2025 23:33:12.019 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+24-Jan-2025 23:33:12.020 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+24-Jan-2025 23:33:12.020 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+24-Jan-2025 23:33:12.032 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+24-Jan-2025 23:33:12.233 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+24-Jan-2025 23:33:12.244 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [377] milliseconds
+24-Jan-2025 23:33:12.280 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Jan-2025 23:33:12.280 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.98]
+24-Jan-2025 23:33:12.286 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98\conf\Catalina\localhost\ROOT.xml]
+24-Jan-2025 23:33:12.303 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98\conf\Catalina\localhost\ROOT.xml] with an external docBase means the directory [C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98\webapps\ROOT] in the appBase will be ignored
+24-Jan-2025 23:33:12.406 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.0]. Default version will be used.
+24-Jan-2025 23:33:13.015 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jan-2025 23:33:13.119 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98\conf\Catalina\localhost\ROOT.xml] has finished in [831] ms
+24-Jan-2025 23:33:13.119 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98\webapps\docs]
+24-Jan-2025 23:33:13.149 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98\webapps\docs] has finished in [30] ms
+24-Jan-2025 23:33:13.149 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98\webapps\examples]
+24-Jan-2025 23:33:13.394 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98\webapps\examples] has finished in [245] ms
+24-Jan-2025 23:33:13.394 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98\webapps\host-manager]
+24-Jan-2025 23:33:13.420 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98\webapps\host-manager] has finished in [26] ms
+24-Jan-2025 23:33:13.420 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98\webapps\manager]
+24-Jan-2025 23:33:13.443 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Мэдди\OneDrive\Рабочий стол\04_serlvets\servlets\apache-tomcat-9.0.98\webapps\manager] has finished in [22] ms
+24-Jan-2025 23:33:13.445 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Jan-2025 23:33:13.466 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1220] milliseconds
+24-Jan-2025 23:49:41.954 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+24-Jan-2025 23:49:42.025 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+24-Jan-2025 23:49:42.041 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+24-Jan-2025 23:49:42.061 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
