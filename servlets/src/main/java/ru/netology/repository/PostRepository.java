@@ -1,5 +1,6 @@
 package ru.netology.repository;
 
+import org.springframework.stereotype.Repository;
 import ru.netology.model.Post;
 
 import java.util.ArrayList;
@@ -7,9 +8,10 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
+@Repository
 public class PostRepository {
-    private final List<Post> posts = new ArrayList<>();
-    private long currentId = 0;
+    protected final List<Post> posts = new ArrayList<>();
+    protected long currentId = 0;
 
     public synchronized List<Post> all() {
         return Collections.unmodifiableList(new ArrayList<>(posts));
